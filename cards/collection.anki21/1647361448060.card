@@ -1,0 +1,34 @@
+--- {{#meta
+ID: 1647361448060
+nid: 1647361448060
+did: 1648585353323
+ord: 0
+mod: 1648585353
+usn: 3
+type: 0
+queue: 0
+due: 27
+ivl: 0
+factor: 0
+reps: 0
+lapses: 0
+left: 1001
+odue: 0
+odid: 0
+flags: 0
+data: ""
+--- {{#notes
+id: 1647361448060
+guid: QJ|g|%d+eP
+mid: 1601997021376
+mod: 1647361448
+usn: 3
+tags: ""
+csum: 1969430378
+flags: 0
+data: ""
+--- {{#front
+Eigenschaften Zweierkomplement
+--- {{#back
+Eigenschaften Zweierkomplement<ol><li>Alle Additionsergebnisse sind korrekt</li><li>Es gibt nur eine Darstellung der 0</li><ul><li><img src="paste-75c339cfa5c6e6d5619547e72d09afc12649caba.jpg"><br></li><li>Overflow auf 0</li></ul><li>Wertebereich komplett ausgenutzt</li><li>Nachteil: asymmetrischer Wertebereich</li><ul><li>Für die kleinste (betragsmäßig größte) Zahl gibt es kein positives Komplement</li></ul><li>Computer stellen ganze Zahlen meist im Zweierkomplement dar</li></ol>
+

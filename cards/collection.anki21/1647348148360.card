@@ -1,0 +1,34 @@
+--- {{#meta
+ID: 1647348148360
+nid: 1647348148359
+did: 1648585353322
+ord: 0
+mod: 1648585353
+usn: 3
+type: 0
+queue: 0
+due: 1
+ivl: 0
+factor: 0
+reps: 0
+lapses: 0
+left: 1001
+odue: 0
+odid: 0
+flags: 0
+data: ""
+--- {{#notes
+id: 1647348148359
+guid: dAo+o}/(w#
+mid: 1601997021376
+mod: 1647348856
+usn: 3
+tags: ""
+csum: 2865524040
+flags: 0
+data: ""
+--- {{#front
+Definition: digital
+--- {{#back
+Definition: digital- wertediskret<br>- zwischen 2 benachbarten Werten gibt es keine Zwischenwerte<br>-&gt; zwischen zwei beliebigen Werten gibt es immer nur endlich viele Zwischenwerte<br><br>ACHTUNG: digitale Wertemengen müssen nicht endlich sein. Bsp.:&nbsp;\(\mathbb{N}\)<br><br>meist außerdem:<br><ul><li>zeitdiskret</li><ul><li>getaktet</li><ul><li>Änderungen sind nur zu bestimmten Zeitpunkten möglich</li></ul></ul></ul>
+

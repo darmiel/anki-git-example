@@ -1,0 +1,34 @@
+--- {{#meta
+ID: 1647536835124
+nid: 1647536835123
+did: 1648585353323
+ord: 0
+mod: 1648585353
+usn: 3
+type: 0
+queue: 0
+due: 59
+ivl: 0
+factor: 0
+reps: 0
+lapses: 0
+left: 1001
+odue: 0
+odid: 0
+flags: 0
+data: ""
+--- {{#notes
+id: 1647536835123
+guid: C%82,PSRHp
+mid: 1601997021376
+mod: 1647536835
+usn: 3
+tags: ""
+csum: 3414649877
+flags: 0
+data: ""
+--- {{#front
+Taktrückgewinnung bei RZ
+--- {{#back
+Taktrückgewinnung bei RZTaktrückgewinnung gibt es bei jeder "1". Nur bei nur "0" gibt es keine TRG.<br><ul><li>Startbitsequenz</li><ul><li>EIn einfaches Startbit "1" reicht aus</li></ul><li>Bitstuffing</li><ul><li>Stopfbit nur nach n "0"en benötigt =&gt; ungefähr nur halber Overhead gegenüber Einsatz bei NRZ</li></ul></ul>
+

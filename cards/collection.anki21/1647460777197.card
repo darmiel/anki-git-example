@@ -1,0 +1,34 @@
+--- {{#meta
+ID: 1647460777197
+nid: 1647460777197
+did: 1648585353323
+ord: 0
+mod: 1648585353
+usn: 3
+type: 0
+queue: 0
+due: 36
+ivl: 0
+factor: 0
+reps: 0
+lapses: 0
+left: 1001
+odue: 0
+odid: 0
+flags: 0
+data: ""
+--- {{#notes
+id: 1647460777197
+guid: h[TQBeRv!W
+mid: 1601997021376
+mod: 1647460777
+usn: 3
+tags: ""
+csum: 2034808681
+flags: 0
+data: ""
+--- {{#front
+Hidden-Bit-Darstellung
+--- {{#back
+Hidden-Bit-Darstellung<ul><li>Die führende "1" wird bei Speicherung weggelassen</li><ul><li>ermöglicht weitere Nachkommastelle</li></ul></ul>-&gt; höhere Genauigkeit bei gleicher Speichermenge
+

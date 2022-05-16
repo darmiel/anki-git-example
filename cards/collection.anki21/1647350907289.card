@@ -1,0 +1,34 @@
+--- {{#meta
+ID: 1647350907289
+nid: 1647350907289
+did: 1648585353323
+ord: 0
+mod: 1648585353
+usn: 3
+type: 0
+queue: 0
+due: 13
+ivl: 0
+factor: 0
+reps: 0
+lapses: 0
+left: 1001
+odue: 0
+odid: 0
+flags: 0
+data: ""
+--- {{#notes
+id: 1647350907289
+guid: ejEO=0ZoqI
+mid: 1601997021376
+mod: 1647350951
+usn: 3
+tags: ""
+csum: 810229843
+flags: 0
+data: ""
+--- {{#front
+Fingerabzählsystem
+--- {{#back
+FingerabzählsystemSymbolmenge: Finger<br>Wert = Anzahl gezeigter Finger<br><br>Jedes Symbol hat einen Symbolwert, nämlich hier Finger entspricht 1<br>Der Gesamtwert ist die Summe aller dargestellten Symbolwerte<br><u>Hinweis:</u>&nbsp;Potenziell kann jedes Symbol mehrfach auftreten<br><br>Bewertung:<br>Pro:<br><ul><li>Darstellung und Verständnis extrem einfach</li><li>Addition und Subtraktion extrem einfach</li></ul>Contra:<br><ul><li>sehr kleiner beschränkter Wertebereich (maximal 10 (Finger))</li><li>keine negativen Zahlen</li><li>keine Teile von ganzen Zahlenwerten</li><li>komplexere Rechenoperationenn nicht darstellbar</li></ul>
+

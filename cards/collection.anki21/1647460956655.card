@@ -1,0 +1,36 @@
+--- {{#meta
+ID: 1647460956655
+nid: 1647460956655
+did: 1648585353323
+ord: 0
+mod: 1648585353
+usn: 3
+type: 0
+queue: 0
+due: 37
+ivl: 0
+factor: 0
+reps: 0
+lapses: 0
+left: 1001
+odue: 0
+odid: 0
+flags: 0
+data: ""
+--- {{#notes
+id: 1647460956655
+guid: MW,Ae(7_9=
+mid: 1601997021376
+mod: 1647462322
+usn: 3
+tags: ""
+csum: 1079555647
+flags: 0
+data: ""
+--- {{#front
+Speicherung von Gleitkommazahlen gemäß IEEE 754
+--- {{#back
+Speicherung von Gleitkommazahlen gemäß IEEE 754<table class="table_class_basic_full_width" style="font-size: 85%; width: 100%; border-collapse: collapse; border: 1px solid;">
+                <thead><tr><th style="width:17%; text-align:left; padding: 2px; border: 1px solid;"></th><th style="width:17%; text-align:left; padding: 2px; border: 1px solid;">Anzahl Bit</th><th style="width:17%; text-align:left; padding: 2px; border: 1px solid;">Vorzeichen</th><th style="width:17%; text-align:left; padding: 2px; border: 1px solid;">Mantisse</th><th style="width:17%; text-align:left; padding: 2px; border: 1px solid;">Exponent</th><th style="width:17%; text-align:left; padding: 2px; border: 1px solid;">Bias</th></tr></thead>
+                <tbody><tr><td style="width: 17%; padding: 2px; border: 1px solid;"><br></td><td style="width: 17%; padding: 2px; border: 1px solid;"></td><td style="width: 17%; padding: 2px; border: 1px solid;"></td><td style="width: 17%; padding: 2px; border: 1px solid;"></td><td style="width: 17%; padding: 2px; border: 1px solid;"></td><td style="width: 17%; padding: 2px; border: 1px solid;"></td></tr><tr><td style="width: 17%; padding: 2px; border: 1px solid;">float (bzw. Single)</td><td style="width: 17%; padding: 2px; border: 1px solid;">32</td><td style="width: 17%; padding: 2px; border: 1px solid;">1</td><td style="width: 17%; padding: 2px; border: 1px solid;">23</td><td style="width: 17%; padding: 2px; border: 1px solid;">8</td><td style="width: 17%; padding: 2px; border: 1px solid;">127</td></tr><tr><td style="width: 17%; padding: 2px; border: 1px solid;">double</td><td style="width: 17%; padding: 2px; border: 1px solid;">64</td><td style="width: 17%; padding: 2px; border: 1px solid;">1</td><td style="width: 17%; padding: 2px; border: 1px solid;">52</td><td style="width: 17%; padding: 2px; border: 1px solid;">11</td><td style="width: 17%; padding: 2px; border: 1px solid;">1023</td></tr><tr><td style="width: 17%; padding: 2px; border: 1px solid;">short / half</td><td style="width: 17%; padding: 2px; border: 1px solid;">16</td><td style="width: 17%; padding: 2px; border: 1px solid;">1</td><td style="width: 17%; padding: 2px; border: 1px solid;">10</td><td style="width: 17%; padding: 2px; border: 1px solid;">5</td><td style="width: 17%; padding: 2px; border: 1px solid;">15<br></td></tr></tbody></table><br>reservierte Bitmuster:<br><ul><li>alles "0" (außer Vorzeichen, gilt für beide)</li><ul><li>0</li></ul><li>Exponent (gespeichert) = 0 =&gt; Zahl ist nicht normalisiert, kein Hidden Bit</li><ul><li>Exponent (real) = 1 - Bias (!) (nicht 0- Bias)</li></ul><li>Exponent (gespeichert) = 11111 und Mantisse = 00000</li><ul><li>"+ / - Unendlich"</li><li>abhängig von Vorzeichen</li></ul><li>Exponent (gespeichert) = 1111 und Mantisse != 0</li><ul><li>Not a number (NaN)</li></ul></ul>
+

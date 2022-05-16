@@ -1,0 +1,34 @@
+--- {{#meta
+ID: 1647622475497
+nid: 1647622475497
+did: 1648585353324
+ord: 0
+mod: 1648585353
+usn: 3
+type: 0
+queue: 0
+due: 80
+ivl: 0
+factor: 0
+reps: 0
+lapses: 0
+left: 1001
+odue: 0
+odid: 0
+flags: 0
+data: ""
+--- {{#notes
+id: 1647622475497
+guid: j%%Rc#EVnn
+mid: 1601997021376
+mod: 1647622475
+usn: 3
+tags: ""
+csum: 2207054383
+flags: 0
+data: ""
+--- {{#front
+Definition: Belegung
+--- {{#back
+Definition: Belegung<ul><li>Eingangsbelegung</li><ul><li>Jeder Variable wird ein konkreter Wert zugewiesen</li></ul><li>Ausgangsbelegung</li><ul><li>Der Wert, welcher sich ergibt, wenn man einen booleschen Ausdruck für eine bestimmte Eingangsbelegung "auswertet"</li></ul></ul>
+

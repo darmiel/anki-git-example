@@ -1,0 +1,34 @@
+--- {{#meta
+ID: 1647625211537
+nid: 1647625211537
+did: 1648585353324
+ord: 0
+mod: 1648585353
+usn: 3
+type: 0
+queue: 0
+due: 86
+ivl: 0
+factor: 0
+reps: 0
+lapses: 0
+left: 1001
+odue: 0
+odid: 0
+flags: 0
+data: ""
+--- {{#notes
+id: 1647625211537
+guid: IvYPShl/aC
+mid: 1601997021376
+mod: 1647625211
+usn: 3
+tags: ""
+csum: 2206246359
+flags: 0
+data: ""
+--- {{#front
+Anzahl der (nicht-äquivalenten) Funktionen abhängig von n Variablen
+--- {{#back
+Anzahl der (nicht-äquivalenten) Funktionen abhängig von n Variablen<b>n = 0:<br></b>\(f_0() = 0\) "Nullfunktion"<br>\(f_1() = 1\) "Einsfunktion"<br>\(\sum = 2\)<br><br><b>n = 1:<br></b>\(f_0(a) = 0\) "Nullfunktion"<br>\(f_1(a) = \overline{a}\) "Negation"<br>\(f_1(a) = a\) "Identität"<br>\(f_3(a) = 1\) "Einsfunktion"<br>\(\sum = 4\)<br><b><br>n = 2:<br></b><img src="paste-e0362d134f6981613421a71050ed557ba38c6634.jpg"><br><br><b>allgemein:</b><br>Anzahl Zeilen der WT:&nbsp;\(2^n\)<br>Anzahl verschiedener Funktionen:&nbsp;\(2^{2^n}\)
+

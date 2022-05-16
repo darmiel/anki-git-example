@@ -1,0 +1,34 @@
+--- {{#meta
+ID: 1647989229977
+nid: 1647989229977
+did: 1648585353326
+ord: 0
+mod: 1648585353
+usn: 3
+type: 0
+queue: 0
+due: 2317
+ivl: 0
+factor: 0
+reps: 0
+lapses: 0
+left: 0
+odue: 0
+odid: 0
+flags: 0
+data: ""
+--- {{#notes
+id: 1647989229977
+guid: cu1r`:-fUt
+mid: 1601997021376
+mod: 1647989229
+usn: 3
+tags: ""
+csum: 2170587971
+flags: 0
+data: ""
+--- {{#front
+JK-FF
+--- {{#back
+JK-FFJump and Kill<br>wie RS-FF, aber keine verbotene E-Belegung<br><img src="paste-4d640006f4e65abbec7277e8d511365159547fa2.jpg"><br><img src="paste-276f513259a6b09b944021e7647c2a20c50a2de5.jpg"><br>Idee: nur der Eingang, welcher dem Zustand des FF ändern kann, wird durchgelassen<br>Verhalten, wie bei RS-FF, aber E-Belegung J=K=1 ist nicht verboten, sondern das FF wechselt seinen Zustand<br>J=K=0 behält IMMER seinen Zustand<br><br>Taktsteuerung:<br><ul><li>mit und ohne TS</li><li>TFS besonders sinnvoll, da hier bei aktiver TF und J=K=1 der Zustand immer genau einmal wechselt</li><li>bei TPS auch mehrfach</li><li>bei TFS durch Signalverkürzung nicht immer einmal</li><ul><li>Master-Slave-FF benutzen</li></ul></ul>
+
