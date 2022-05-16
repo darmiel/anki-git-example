@@ -7,6 +7,7 @@ echo ""
 
 # table header
 echo "| Num | Front |"
+echo "| --- | ----- |"
 
 i=0
 

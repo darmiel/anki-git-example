@@ -13,7 +13,7 @@ jobs:
       - name: Generate README.md
         run: |
           chmod +x ./generate.sh
-          ./generate.sh > README.md
+          ./generate.sh | tee README.md
 
       - uses: EndBug/add-and-commit@v7
         with:
