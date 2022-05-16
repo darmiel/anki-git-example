@@ -2,6 +2,7 @@
 List of cards in this repo
 
 | Num | Front |
+| --- | ----- |
 | 1 | Hidden-Bit-Darstellung |
 | 2 | Bandbreitenbedarf bei AMI |
 | 3 | Vergleich der Signalcodierungsverfahren (Tabelle) |
